@@ -2,11 +2,23 @@
 
 /* ======================== CSS Rule #1 */
 html {
-  background-color: white;
+  background-color: rgb(233, 106, 106);
   padding-left: 20px;
+
+
 }
+style {
+  background-image:-moz-linear-gradient(blueviolet);
+}
+
 
 /* ======================== CSS Rule #2 */
 h1 {
-  font-family: "Poetsen One", sans-serif;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+body {
+  border-color: blueviolet;
+  text-align: center;
+  text-decoration-color: antiquewhite;
+ 
 }
